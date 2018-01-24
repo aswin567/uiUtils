@@ -1,6 +1,6 @@
 # UiUtils Library
 
-Simple TS library for the utils function commanly used in Ui perspective 
+Simple TS library for the utils function commanly used in Ui perspective. 
 
 # Usage
 
